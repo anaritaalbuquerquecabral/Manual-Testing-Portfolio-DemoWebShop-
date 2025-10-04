@@ -4,7 +4,6 @@
 ## Overview
 The purpose of this portfolio is to demonstrate practical manual testing skills through structured test documentation and defect reporting. It contains a series of test cases and bugs I found during the testing analysis of a demo e-commerce website (Demo Webshop). It highlights practical skills in test planning, test execution, and defect tracking using **Excel**. Examples of defect management and test execution are shown in **Jira** and **Zephyr**. It includes test cases for functional areas such as **registration**, **search**, and **shopping cart**. In the future, other critical areas such as **checkout** will also be added.
 
----
 
 ## Key Skills Demonstrated
 - Writing clear and comprehensive test cases
@@ -12,7 +11,6 @@ The purpose of this portfolio is to demonstrate practical manual testing skills 
 - Managing test cases and results in Excel and Zephyr
 - Logging and tracking issues using Jira
 
----
 
 ## Test Cases Structure (Excel)
 Test cases were created in Excel with the following columns:
@@ -47,6 +45,5 @@ Selected examples of defect management and test execution are shown below:
 
 ---
 
-## Future Work
-- Expanding test coverage to **checkout** and **payment flows**
+
 

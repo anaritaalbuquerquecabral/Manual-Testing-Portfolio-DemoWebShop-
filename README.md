@@ -26,19 +26,19 @@ Test cases were created in Excel with the following columns:
 - **Status** – Ready to test, Pass, Fail, or Blocked/Skipped  
 - **Test Environment** – Browser, OS, or other environment details
 
-![Excel Test Case Example](screenshots/excel_testcase1.png)  
-*Example of a detailed test case documented in Excel.*
-
----
+[Excel test cases](https://docs.google.com/spreadsheets/d/1DCJUF27rvkK6IiQywjvk2aSmWUy6ocjSTOkM0gRM4Tw/edit?usp=sharing)
 
 ## Jira & Zephyr Examples
-Selected examples of defect management and test execution are shown below:
+Selected examples test cases and respective bugs are shown below:
 
-![Zephyr Execution Example](screenshots/zephyr_execution1.png)  
+![Zephyr Test Execution #1](screenshots/zephyr_execution1.png)  
 *Executed test case in Zephyr showing status and linked Jira bug.*
 
 ![Jira Bug #1](screenshots/jira_bug1_top.png)  
 *Jira bug ticket showing steps, expected vs actual results, priority, and environment.*
+
+![Zephyr Test Execution #2](screenshots/zephyr_execution1.png)  
+*Executed test case in Zephyr showing status and linked Jira bug.*
 
 ![Jira Bug #2](screenshots/jira_bug2.png)  
 *Second Jira bug demonstrating workflow for a different functional area.*
